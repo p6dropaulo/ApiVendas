@@ -1,0 +1,22 @@
+# IDE
+.vscode/
+.idea/
+
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# BD
+*.db
+*.mv.db
+*.h2.db
+*.trace.db
+
+# Temporários
+*.log
+*.tmp
+*.sw?
+
+# Sensíveis
+gitpush.bat
+*.env
